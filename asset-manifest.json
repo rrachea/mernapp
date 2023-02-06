@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rrachea/mernapp.git/static/css/main.073c9b0a.css",
-    "main.js": "/rrachea/mernapp.git/static/js/main.5d8f0b84.js",
-    "static/js/787.cda612ba.chunk.js": "/rrachea/mernapp.git/static/js/787.cda612ba.chunk.js",
-    "index.html": "/rrachea/mernapp.git/index.html",
-    "main.073c9b0a.css.map": "/rrachea/mernapp.git/static/css/main.073c9b0a.css.map",
-    "main.5d8f0b84.js.map": "/rrachea/mernapp.git/static/js/main.5d8f0b84.js.map",
-    "787.cda612ba.chunk.js.map": "/rrachea/mernapp.git/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/mernapp.git/static/css/main.073c9b0a.css",
+    "main.js": "/mernapp.git/static/js/main.1702b695.js",
+    "static/js/787.cda612ba.chunk.js": "/mernapp.git/static/js/787.cda612ba.chunk.js",
+    "index.html": "/mernapp.git/index.html",
+    "main.073c9b0a.css.map": "/mernapp.git/static/css/main.073c9b0a.css.map",
+    "main.1702b695.js.map": "/mernapp.git/static/js/main.1702b695.js.map",
+    "787.cda612ba.chunk.js.map": "/mernapp.git/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5d8f0b84.js"
+    "static/js/main.1702b695.js"
   ]
 }
